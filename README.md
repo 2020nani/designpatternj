@@ -1,4 +1,4 @@
-# 🔔 Projeto: Notificações com Java 24 + Spring Boot
+# 🔔 Projeto: Notificações com fetures novas das versoes recentes do Java Spring Boot
 
 Este repositório demonstra o uso prático de três padrões de projeto clássicos — **Singleton**, **Factory** e **Observer** — utilizando novas funcionalidades do **Java 24** e recursos do **Spring Boot**.
 
